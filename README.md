@@ -1,0 +1,1 @@
+Making an empty project to pracitice working with a team in git and learning git commands
